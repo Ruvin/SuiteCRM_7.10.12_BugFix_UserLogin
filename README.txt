@@ -1,0 +1,1 @@
+SuiteCRM 7.10.12 Bug fix (new users cannot login to the system)
